@@ -1,13 +1,9 @@
 ------------------------------------------------------------
 --File Name:		LC3_Data_Path_ALL_tb_Karki.vhd
 --VHDL Source File:	A very simple test bench
--- 				Or, you can use the standard TB!
---Components: 		see lc3_parts_all_amoo.vhd
--- 			     requires lc3_datapath_all_amoo
---Comments: 		behavioral testbench description
---Dr. M. E. Amoo
---ADvanced Digital Design
---Fall 2020
+--Comments: 		Behavioral testbench description
+--Advanced Digital Design
+--Spring 2022
 -----------------------------------------------------------
 library IEEE;
 use IEEE.std_logic_1164.all;
